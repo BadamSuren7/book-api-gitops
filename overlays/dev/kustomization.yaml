@@ -6,5 +6,5 @@ resources:
   - ../../base
 images:
   - name: book-api
-    newName: <DOCKERHUB_ID>/book-api
-    newTag: "latest"
+    newName: badamsuren/book-api
+    newTag: "cd3c19d"
