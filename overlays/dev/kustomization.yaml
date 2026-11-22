@@ -7,4 +7,4 @@ resources:
 images:
   - name: book-api
     newName: badamsuren/book-api
-    newTag: "7ccdb70"
+    newTag: "011d98e"
